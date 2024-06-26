@@ -17,7 +17,7 @@ Bulk Email Sender is a user-friendly application for sending bulk emails with at
 ### Usage
 1. Clone the repository or download the script.
    ```bash
-   git clone https://github.com/RapidScripter/BulkEmailSender
+   git clone https://github.com/RapidScripter/BulkEmailSender.git
    cd BulkEmailSender
 
 2. Install Required Packages

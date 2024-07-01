@@ -26,7 +26,7 @@ Bulk Email Sender is a user-friendly application for sending bulk emails with at
 
 3. Run the Application
    ```bash
-   python bulk_email_sender.py
+   python BulkEmailSender.py
 
 ### User Interface
 - Enter the sender email and password. (To use the Bulk Email Sender with Gmail, you need to create an app password.)
